@@ -1,21 +1,21 @@
 {
   "name": "whatsapp-Automation",
-  "description": " Whatsapp Ai.",
+  "description": "Codezap Wabot",
   "keywords": [
-    "whatsapp Ai"
+    "whatsapp bot"
   ],
-  "repository": "https://github.com/GlobalTechInfo/ULTRA-MD",
+  "repository": "https://github.com/cheekydavy/codezap",
   "stack": "container",
   "env": {
     "OWNERS": {
       "description": "owner number",
       "required": true,
-      "value": "923444844060"
+      "value": "254746440595"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
       "required": true,
-      "value": "ULTRA-MD"
+      "value": "CODEZAP"
     },
     "DATABASE_URL": {
       "description": "your mongodb database url",
@@ -34,8 +34,8 @@
     },
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
-      "required": false,
-      "value": ""
+      "required": true,
+      "value": "."
     },
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
@@ -49,7 +49,7 @@
     },
     "statusview": {
       "description": "make it true if you want bot to view status",
-      "required": false,
+      "required": true,
       "value": ""
     },
     "autoRead": {
@@ -60,7 +60,7 @@
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
      "REMOVEBG_KEY": {
       "description": "your RemoveBg api key",
