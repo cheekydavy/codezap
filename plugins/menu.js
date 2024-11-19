@@ -21,8 +21,8 @@ let handler = async (m, { conn, usedPrefix }) => {
     let greeting = ucapan();
 
     let str = `
-      『 *ULTRA-MD* 』  
-      © 2024 *GlobalTechInfo*`;
+      『 *CODEZAP* 』  
+      © 2024 *Mbuvi Tech*`;
 
     let msg = generateWAMessageFromContent(m.chat, {
         viewOnceMessage: {
@@ -86,14 +86,14 @@ let handler = async (m, { conn, usedPrefix }) => {
                                 "name": "cta_url",
                                 "buttonParamsJson": JSON.stringify({
                                     "display_text": "OWNER 🌟",
-                                    "url": "https://wa.me/message/HA35ZL76JSHJB1"
+                                    "url": "https://api.whatsapp.com/send?phone=254743680703"
                                 })
                             },
                             {
                                 "name": "cta_url",
                                 "buttonParamsJson": JSON.stringify({
                                     "display_text": "SCRIPT 💕",
-                                    "url": "https://github.com/GlobalTechInfo/ULTRA-MD"
+                                    "url": "https://github.com/cheekydavy/codezap"
                                 })
                             }
                         ],
