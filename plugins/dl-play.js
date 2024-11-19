@@ -13,7 +13,7 @@ let handler = async (m, { conn, command, text, usedPrefix }) => {
         m.react('🎧');
 
         let play = `
-≡ *ULTRA-MD MUSIC*
+≡ *CODEZAP MUSIC*
 ┌──────────────
 ▢ 📆 *Uploaded:* ${ago}
 ▢ ⌚ *Duration:* ${timestamp}
