@@ -2,26 +2,26 @@ let handler = async m =>
   m.reply(
     `
 
-≡ © GlobalTechInfo Groups
+≡ © Mbuvi Tech Groups
 
 ─────────────
 ▢ Join WhatsApp Channel For Updates
-https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
+https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D
 
 ▢ Group 2
-https://t.me/GlobalBotInc
+https://t.me/accidentallygenius
 
 ─────────────
 ≡ Disabled links? Chat Directly! 
 
 ▢ Group WhatsApp 
- https://GlobalTechInc
+ https://chat.whatsapp.com/JZxR4t6JcMv66OEiRRCB2P
 ─────────────
 ▢ *Owner instagram*
- https://instagram.com/global.techinfo
+ https://instagram.com/_mbuvi
 
 ▢ *YouTube*
-• https://www.youtube.com/@GlobalTechInfo
+• https://www.youtube.com/@rhodvick
 
 
 `.trim()
