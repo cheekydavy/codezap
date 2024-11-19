@@ -1,8 +1,8 @@
 FROM quay.io/gurusensei/gurubhay:latest
 
-RUN git clone https://github.com/GlobalTechInfo/ULTRA-MD /root/global
+RUN git clone https://github.com/cheekydavy/codezap /root/cheekydavy
 
-WORKDIR /root/global/
+WORKDIR /root/cheekydavy/
 
 RUN npm install --platform=linuxmusl
 
