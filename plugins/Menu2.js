@@ -41,7 +41,7 @@ let str = `
 
 📋 *_Quote of the day: ${quote}_* 📋
 
-『 *ULTRA-MD*』
+『 *CODEZAP*』
 
 ☆┏━『 *User Info* 』 
 ☆┃ 🪪  *Name:* ${name}  
@@ -91,7 +91,7 @@ let str = `
 ◈┃• fancy2
 ◈┗━♪♪━★━☆━⦿
 
-© GlobalTechInfo
+© Mbuvi Tech
 
 > 💡 *_Remember, when in doubt, use ${usedPrefix}list or ${usedPrefix}help It's like my magic spell book!_* 💡
 `
