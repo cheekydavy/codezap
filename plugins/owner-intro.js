@@ -6,23 +6,25 @@ let handler = async (m, { text, usedPrefix, command, conn }) => {
     const introText = `
  ◈ •╭═══ ━ ━ • ━ ━ ━ ═══♡᭄
  ◈ •│       「 𝗠𝗬 𝗜𝗡𝗧𝗥𝗢 」
- ◈ •│ Name    : 𝙺𝙰𝚂𝙸𝙼 𝙰𝙻𝙸
+ ◈ •│ Name    : MBUVI TECH
  ◈ •│
- ◈ •│ Place     : 𝙿𝙰𝙺𝙸𝚂𝚃𝙰𝙽
+ ◈ •│ Place     : KENYA
  ◈ •│
- ◈ •│ Gender  : 𝙼𝙰𝙻𝙴
+ ◈ •│ Gender  : MALE
  ◈ •│
- ◈ •│ Age        : 𝟸𝟼_
+ ◈ •│ Age        : 19_
  ◈ •│
- ◈ •│ Status   : 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁
+ ◈ •│ Status   : DEVELOPER
  ◈ •│
- ◈ •│ Skills     : 𝙹𝙰𝚅𝙰𝚂𝙲𝚁𝙸𝙿𝚃
+ ◈ •│ Skills     : FRONTEND
  ◈ •│
- ◈ •│ Lang     : 𝙴𝙽𝙶𝙻𝙸𝚂𝙷,𝚄𝚁𝙳𝚄
+ ◈ •│ Lang     : ENGLISH,DEUTSCH
  ◈ •│
- ◈ •│ Project  : 𝚄𝙻𝚃𝚁𝙰-𝙼𝙳
+ ◈ •│ Project  : CODEZAP
  ◈ •│
- ◈ •│ Hobbie  : 𝙲𝙾𝙳𝙸𝙽𝙶,𝙱𝙾𝚃𝚂
+ ◈ •│ Hobbie  : BOTS
+ ◈ •│ 
+ ◈ •│ Credits  : GLOBALTECHINFO
  ◈ •╰═══ ━ ━ • ━ ━ ━ ═══♡᭄
     `;
 
@@ -35,12 +37,12 @@ let handler = async (m, { text, usedPrefix, command, conn }) => {
       console.log("Error fetching profile picture:", e);
     }
 
-    const sourceUrl = 'https://youtube.com/@GlobalTechInfo'; // Example source URL for the card
+    const sourceUrl = 'https://youtube.com/@rhodvick'; // Example source URL for the card
 
     const contextInfo = {
       mentionedJid: [m.sender],
       externalAdReply: {
-        title: 'ULTRA-MD', // Title of the card
+        title: 'CODEZAP', // Title of the card
         body: '𝑇𝛩𝑈𝐶𝛨 𝛨𝛯𝑅𝛯',
         thumbnailUrl: 'https://github.com/GlobalTechInfo.png', // Fixed URL syntax with quotes
         mediaUrl: 'https://github.com/GlobalTechInfo.png', // Fixed URL syntax with quotes
