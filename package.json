@@ -1,5 +1,5 @@
 {
-    "name": "codezap",
+    "name": "Codezap",
     "version": "3.1.0",
     "description": "Advanced WhatsApp",
     "main": "index.js",
@@ -22,7 +22,7 @@
         "whatsapp",
         "js-whatsapp",
         "whatsapp",
-        "guru-bot",
+        "ultra-bot",
         "Global-bot-md",
         "multi-device",
         "MD",
@@ -30,7 +30,7 @@
     ],
     "homepage": "https://github.com/cheekydavy/codezap",
     "author": {
-        "name": "Mbuvi Tech"
+        "name": "Cheekydavy"
     },
     "repository": {
         "type": "git",
@@ -93,7 +93,6 @@
         "node-fetch": "^3.3.1",
         "node-gtts": "^2.0.2",
         "node-webpmux": "^3.1.3",
-        "pastebin-js": "^1.0.6",
         "pdfkit": "^0.13.0",
         "perf_hooks": "^0.0.1",
         "pino": "^8.1.0",
