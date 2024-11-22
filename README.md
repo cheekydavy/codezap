@@ -1,36 +1,24 @@
 
-#### MULTI DEVICE WHATSAPP BOT ULTRA | STILL MANY HIDDEN COMMANDS
+#### MULTI DEVICE WHATSAPP BOT
 
 <p align="center">  
-  <a href="https://youtu.be/nE4v4KWBfAU">
-    <img alt="ULTRA" src="https://i.ibb.co/yhP0jDK/20241114-161433.jpg">
+  <a href="https://youtu.be/@rhodvick">
+    <img alt="ULTRA" src="https://i.ibb.co/VCw50mD/08a2bd3f6974c12f.jpg">
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/GlobalTechInfo?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/GlobalTechInfo?label=Followers&style=social"></a>
-<a href="https://github.com/GlobalTechInfo/ULTRA-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/GlobalTechInfo/ULTRA-MD?&style=social"></a>
-<a href="https://github.com/GlobalTechInfo/ULTRA-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/GlobalTechInfo/ULTRA-MD?style=social"></a>
-<a href="https://github.com/GlobalTechInfo/ULTRA-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/GlobalTechInfo/ULTRA-MD?label=Watching&style=social"></a>
+<a href="https://github.com/cheekydavy?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/cheekydavy?label=Followers&style=social"></a>
+<a href="https://github.com/cheekydavy/codezap/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/cheekydavy/codezap?&style=social"></a>
+<a href="https://github.com/cheekydavy/codezap/network/members"><img title="Fork" src="https://img.shields.io/github/forks/cheekydavy/codezap?style=social"></a>
+<a href="https://github.com/cheekydavy/codezap/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/cheekydavy/codezap?label=Watching&style=social"></a>
 </p>
 <p align="center">
   
 ----
 
- <p align="center"><img src="https://profile-counter.glitch.me/{ULTRA-MD}/count.svg" alt="GlobalTechInfo :: Visitor's Count" old_src="https://profile-counter.glitch.me/{GlobalTechInfo}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{CODEZAP}/count.svg" alt="cheekydavy :: Visitor's Count" old_src="https://profile-counter.glitch.me/{cheekydavy}/count.svg" /></p>
 
-----
-<h1 align="center"> EXTERNAL PLUGINS </h1>
-
-<p align="center">
-<a href="https://github.com/GlobalTechInfo/EXTERNAL-PLUGINS"><img title="Author" src="https://img.shields.io/badge/ULTRA MD-PLUGINS-black?style=for-the-badge&logo=Github"></a>
-<p/>
-
-  
-----
- <h2 align="center">  NOTE
-</h2>
-
-#### No Worries If You Don't Have pre connection/SESSION_ID , Just Put Your Number In The Value Of BOT_NUMBER, e.g BOT_NUMBER = '923444844XXX' , Either In config.js or .env file , And Deploy The Bot, You'll Get A Pairing Code Directly In The Terminal at The End Of Deployment, Pair And Get Connected.
+#### No Worries If You Don't Have pre connection/SESSION_ID , Just Put Your Number In The Value Of BOT_NUMBER, e.g BOT_NUMBER = '2547XXX' , Either In config.js or .env file , And Deploy The Bot, You'll Get A Pairing Code Directly In The Terminal at The End Of Deployment, Pair And Get Connected.
 
 ----
 
@@ -48,20 +36,12 @@ set the Env Vars.
 | MODE | mode public or private |
 | autoRead | make it true if you want bot to read messages |
 | statusview | make it true if you want bot to view status | 
-| OWNERS | owner number e.g 923444844060 | 
+| OWNERS | owner number e.g 254746440595 | 
 | BOTNAME | Your Bot Name | 
 | antidelete | bot will forward deleted messages if you make it true | 
 
 
 ----
-
-
-## 🎬 Watch the Tutorial
-
-To set up the ULTRA-MD quickly, follow our detailed tutorial on YouTube:
-[![ULTRA-MD YouTube Tutorial](https://img.shields.io/badge/YouTube-Watch%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/nE4v4KWBfAU)
-
----
 
 ## Features
 - **Autoreact**: If You enables, Bot Will Reats With **Beautiful Random Emojis** On All Messages In All Chats.
@@ -77,9 +57,9 @@ To set up the ULTRA-MD quickly, follow our detailed tutorial on YouTube:
 ## Deployment Options
 
 ### **Fork & Star the Repository**
-   - Start by forking this repository and giving it a ⭐ to support Globaltechinfo!
-     To set up the ULTRA MD quickly, first fork this repository:
-[![ULTRA MD Github Repo](https://img.shields.io/badge/Github-Fork%20Repo-red?style=for-the-badge&logo=Github)](https://github.com/GlobalTechInfo/ULTRA-MD/fork)
+   - Start by forking this repository and giving it a ⭐ to support Mbuvi Tech!
+     To set up the Codezap quickly, first fork this repository:
+[![CODEZAP Github Repo](https://img.shields.io/badge/Github-Fork%20Repo-red?style=for-the-badge&logo=Github)](https://github.com/cheekydavy/codezap/fork)
 
 ### **Pairing the Bot**
    - Visit the bot site to generate a pairing code and get **SESSION ID.**
@@ -92,7 +72,7 @@ To set up the ULTRA-MD quickly, follow our detailed tutorial on YouTube:
 1. [Create an Account on Heroku](https://signup.heroku.com/) if you haven’t already.
 2. Click the button below to deploy directly on Heroku:
    <br>
-   <a href='https://heroku.com/deploy?template=https://github.com/GlobTechInfo/ULTRA-MD/Bypass' target="_blank">
+   <a href='https://heroku.com/deploy?template=https://github.com/cheekydavy/codezap/Bypass' target="_blank">
       <img alt='Deploy on Heroku' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/>
    </a>
 
@@ -100,7 +80,7 @@ To set up the ULTRA-MD quickly, follow our detailed tutorial on YouTube:
 1. [Sign Up on Koyeb](https://app.koyeb.com/auth/signup).
 3. Deploy your app using the button below:
    <br>
-   <a href='https://github.com/GlobalTechInfo/ULTRA-MD' target="_blank">
+   <a href='https://github.com/cheekydavy/codezap' target="_blank">
       <img alt='Deploy on Koyeb' src='https://img.shields.io/badge/-DEPLOY-red?style=for-the-badge&logo=koyeb&logoColor=white'/>
    </a>
 
@@ -132,7 +112,7 @@ To set up the ULTRA-MD quickly, follow our detailed tutorial on YouTube:
 1. [Create an Account on Replit](https://repl.it) if you don’t have one.
 2. Click the button below to deploy using Replit:
    <br>
-   <a href='https://repl.it/github/GlobalTechInfo/ULTRA-MD' target="_blank">
+   <a href='https://repl.it/github/cheekydavy/codezap' target="_blank">
       <img alt='Deploy on Replit' src='https://img.shields.io/badge/-DEPLOY-orange?style=for-the-badge&logo=replit&logoColor=white'/>
    </a>
    
@@ -145,33 +125,14 @@ To set up the ULTRA-MD quickly, follow our detailed tutorial on YouTube:
       <img alt='Deploy in Panel' src='https://img.shields.io/badge/-DEPLOY-green?style=for-the-badge&logo=Cloudflare&logoColor=white'/>
    </a>
    
-      **Tutorial For Panel**
-1. First You Have to Sign up on discord using web or app download from playstore.
-   <br>
-   <a href='https://youtu.be/nE4v4KWBfAU' target="_blank">
-      <img alt='Deployment Tutorial' src='https://img.shields.io/badge/-Tutorial-red?style=for-the-badge&logo=youtube&logoColor=white'/>
-   </a>
-   
----
 
 ## Support & Community
 
-<p align="center">Need help? Create an <a href="https://github.com/GlobalTechInfo/ULTRA-MD/issues">issue</a> or <a href="https://wa.me/923444844060?text=Hello+Silva+Tech,+I+need+assistance+with+Silva+MD+Bot">Contact Us on WhatsApp</a>.</p>
-
+<p align="center">Need help? Create an <a href="https://github.com/cheekydavy/codezap/issues">issue</a> or <a href="https://wa.me/254746440595?text=Hello+Mbuvi+Tech,+I+need+assistance+with+Codezap+Bot">Contact Us on WhatsApp</a>.</p>
 ---
 
-### 📜 Table of Contents
-1. [About ULTRA-MD](#-about-ultra-md)
-2. [Features](#-features)
-3. [Installation](#-installation)
-4. [Usage](#-usage)
-5. [How to Contribute](#-how-to-contribute)
-6. [Connect with the Developer](#-connect-with-the-developer)
-
----
-
-### 🎩 About ULTRA-MD
-**ULTRA-MD** is a multi-functional WhatsApp bot designed for automatic reactions, status updates, motivational quotes, and music/media downloads. Built with the **Baileys API**, it aims to enhance user interaction with custom and automated responses. Whether you want fun interactions in a group, to download media from links, or to get motivational quotes, this bot does it all!
+### 🎩 About CODEZAP
+**CODEZAP** is a multi-functional WhatsApp bot designed for automatic reactions, status updates, motivational quotes, and music/media downloads. Built with the **Baileys API**, it aims to enhance user interaction with custom and automated responses. Whether you want fun interactions in a group, to download media from links, or to get motivational quotes, this bot does it all!
 
 Key features include:
 - **Autoreact**: If You enables, Bot Will Reats With **Beautiful Random Emojis** On All Messages In All Chats.
@@ -188,7 +149,7 @@ To get started with this project, follow the steps below:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/GlobalTechInfo/ULTRA-MD.git
+   git clone https://github.com/cheekydavy/codezap.git
 ---
 
 ### 💥 Features
@@ -285,17 +246,17 @@ Submit a pull request with a detailed description of your changes.
 ### 🧑‍💻 Connect with the Developer
 
 <p align="center">
-  <a href="https://github.com/GlobalTechInfo">
-    <img src="https://img.shields.io/badge/GitHub-GlobalTechInfo-blue?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://github.com/cheekydavy">
+    <img src="https://img.shields.io/badge/GitHub-cheekydavy-blue?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://t.me/GlobalBotInc">
+  <a href="https://t.me/mbuvi">
     <img src="https://img.shields.io/badge/Telegram-@GlobalBotInc-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
-  <a href="https://wa.me/message/923444844060">
+  <a href="https://wa.me/message/254746440595">
     <img src="https://img.shields.io/badge/WhatsApp-Click%20Here%20to%20Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
-  <a href="https://youtube.com/@GlobalTechInfo">
-    <img src="https://img.shields.io/badge/YouTube-@GlobalTechInfo-000000?style=for-the-badge&logo=youtube&logoColor=white">
+  <a href="https://youtube.com/@rhodvick">
+    <img src="https://img.shields.io/badge/YouTube-@rhodvick-000000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 </p>
 ### 📄 License
@@ -305,11 +266,11 @@ This project is licensed under the [Apache-2.0 license](LICENSE) - see the LICEN
 
 ## ⚠️ Disclaimer
 
-*ULTRA MD Bot is not affiliated with WhatsApp Inc. Misusing the bot could result in a temporary or permanent WhatsApp ban. Globaltechinfo is not responsible for any bans or restrictions that may occur.*
+*CODEZAP Bot is not affiliated with WhatsApp Inc. Misusing the bot could result in a temporary or permanent WhatsApp ban. Mbuvi Tech is not responsible for any bans or restrictions that may occur.*
 
 ---
 
-<p align="center">© Globaltechinfo 2024</p>
+<p align="center">© Chhekydavy 2024</p>
 
   
   
@@ -348,15 +309,15 @@ curl -fsSl https://deb.nodesource.com/setup_lts.x | bash - && apt -y install nod
 apt-get install build-essential libcairo2-dev libpango1.0-dev libjpeg-dev libgif-dev librsvg2-dev
 ```
 ```
-git clone https://github.com/<your gitHub Username>/ULTRA-MD
-cd ULTRA-MD
+git clone https://github.com/<your gitHub Username>/codezap
+cd codezap
 ```
 ```
 npm install && npm start
 ```
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-- **Star ⭐ the repo if you like ULTRA-MD.**
+- **Star ⭐ the repo if you like CODEZAP.**
 
 ## Credits
 
@@ -367,9 +328,9 @@ npm install && npm start
 
 
 ## Main Developer
-<a href="https://github.com/GlobalTechInfo"><img src="https://github.com/GlobalTechInfo.png" width="250" height="250" alt="GlobalTechInfo"/></a>
+<a href="https://github.com/cheekydavy"><img src="https://telegra.ph/file/a7ca8d4777fa8ad977795.jpg" width="250" height="250" alt="cheekydavy"/></a>
   
-`ULTRA-MD - By GlobalTechInfo`
+`CODEZAP - By Cheekydavy`
 
 
 <h2 align="center">  NOTICE
@@ -380,11 +341,3 @@ npm install && npm start
 - If A plugin's code is obfuscated , You don't have permission to edit it in any form 
 - Don't Forget to Give Credits If you are using or Reuploading My Plugins/files
 - Have A Good Day
-
-
-  
-<p align="center">
-  
-[![JOIN WHATSAPP CHANNEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07)
-
---------
