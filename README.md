@@ -64,7 +64,7 @@ set the Env Vars.
 ### **Pairing the Bot**
    - Visit the bot site to generate a pairing code and get **SESSION ID.**
 
-     [![ULTRA-MD Github Repo](https://img.shields.io/badge/Whatsapp-Pair%20Code-green?style=for-the-badge&logo=Whatsapp)](https://spectacular-julianna-oletters-26f441db.koyeb.app/)
+     [![CODEZAP Github Repo](https://img.shields.io/badge/Whatsapp-Pair%20Code-green?style=for-the-badge&logo=Whatsapp)](https://spectacular-julianna-oletters-26f441db.koyeb.app/)
 
 ### **Step-by-Step Deployment Guide**
 
@@ -72,7 +72,7 @@ set the Env Vars.
 1. [Create an Account on Heroku](https://signup.heroku.com/) if you haven’t already.
 2. Click the button below to deploy directly on Heroku:
    <br>
-   <a href='https://heroku.com/deploy?template=https://github.com/cheekydavy/codezap/Bypass' target="_blank">
+   <a href='https://heroku.com/deploy?template=https://github.com/cheekydavy/codezap' target="_blank">
       <img alt='Deploy on Heroku' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/>
    </a>
 
