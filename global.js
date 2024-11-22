@@ -45,6 +45,7 @@ const {
   fetchLatestWaWebVersion,
   makeCacheableSignalKeyStore,
   makeInMemoryStore,
+  Browsers,
   proto,
   delay,
   jidNormalizedUser,
