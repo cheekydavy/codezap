@@ -66,7 +66,7 @@ async function main() {
   }
 
   try {
-     await SaveCreds(txt)
+    await SaveCreds(txt)
     console.log('Check Completed.')
   } catch (error) {
     console.error('Error:', error)
@@ -184,7 +184,7 @@ const connectionOptions = {
     level: 'fatal',
   }),
   printQRInTerminal: !pairingCode,
-   browser: Browsers.windows("Chrome"),
+  browser: Browsers.windows("Chrome"),
   auth: {
     creds: state.creds,
     keys: makeCacheableSignalKeyStore(
@@ -451,7 +451,7 @@ if (pairingCode && !conn.authState.creds.registered) {
 
     if (!Object.keys(PHONENUMBER_MCC).some(v => phoneNumber.startsWith(v))) {
       console.log(
-        chalk.bgBlack(chalk.redBright("Start with your country's WhatsApp code, Example : 62xxx"))
+        chalk.bgBlack(chalk.redBright("Start with your country's WhatsApp code, Example : 254xxx"))
       )
       process.exit(0)
     }
@@ -463,7 +463,7 @@ if (pairingCode && !conn.authState.creds.registered) {
 
     if (!Object.keys(PHONENUMBER_MCC).some(v => phoneNumber.startsWith(v))) {
       console.log(
-        chalk.bgBlack(chalk.redBright("Start with your country's WhatsApp code, Example : 62xxx"))
+        chalk.bgBlack(chalk.redBright("Start with your country's WhatsApp code, Example : 254xxx"))
       )
 
       phoneNumber = await question(
