@@ -8,7 +8,7 @@ import path, { join } from 'path'
 import { platform } from 'process'
 import { fileURLToPath, pathToFileURL } from 'url'
 import * as ws from 'ws'
-import CheckSessionID from './lib/makesession.js'
+import SaveCreds from './lib/makesession.js'
 import clearTmp from './lib/tempclear.js'
 global.__filename = function filename(pathURL = import.meta.url, rmPrefix = platform !== 'win32') {
   return rmPrefix
@@ -65,8 +65,8 @@ async function main() {
   }
 
   try {
-    await CheckSessionID(txt)
-    console.log('SessionID Check Completed.')
+     await SaveCreds(txt)
+    console.log('Check Completed.')
   } catch (error) {
     console.error('Error:', error)
   }
@@ -183,7 +183,7 @@ const connectionOptions = {
     level: 'fatal',
   }),
   printQRInTerminal: !pairingCode,
-  browser: ["Ubuntu", "Chrome", "20.0.04"],
+   browser: Browsers.windows("Chrome"),
   auth: {
     creds: state.creds,
     keys: makeCacheableSignalKeyStore(
